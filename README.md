@@ -1,4 +1,4 @@
-- formulário personalizado em JavaScript, todo o estilo sem a utilização do CSS
+- formulário personalizado em JavaScript, todo o estilo sem a utilização do CSS apenas utilizando a DOM
 - Envio do formulário diretamente pro google planilhas atráves de API
 
 ![print](https://user-images.githubusercontent.com/65837228/184930647-cbbb0eb7-fd2a-4378-8ca6-f86ce8afd6af.png)
